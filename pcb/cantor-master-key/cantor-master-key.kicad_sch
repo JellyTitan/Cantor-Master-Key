@@ -1508,7 +1508,7 @@
     (pin "1" (uuid 31641f22-d988-4744-b7b7-4c05c706bc55))
     (pin "2" (uuid c98d6b93-6b9e-459b-8dbc-3f16a71a6e64))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K32") (unit 1)
         )
@@ -1533,7 +1533,7 @@
     )
     (pin "1" (uuid f1180abe-1cc6-47f4-9e12-5deda39c5928))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR01") (unit 1)
         )
@@ -1563,7 +1563,7 @@
     )
     (pin "1" (uuid 02cef5ac-1d82-499d-bf32-3371f68ac55b))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0104") (unit 1)
         )
@@ -1589,7 +1589,7 @@
     (pin "1" (uuid f7449321-42d7-4565-bab8-09eca59bd3c9))
     (pin "2" (uuid 7090bf5c-e4fe-42d1-a8ff-30f13af6c45d))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K24") (unit 1)
         )
@@ -1614,7 +1614,7 @@
     )
     (pin "1" (uuid 25b8e997-2cca-4770-8bc3-7dabeeb93da2))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0126") (unit 1)
         )
@@ -1640,7 +1640,7 @@
     (pin "1" (uuid 4cdcac64-a2f3-4b67-89f6-2a59bb55b185))
     (pin "2" (uuid 791c2692-0b57-4299-9840-d1d903761983))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K00") (unit 1)
         )
@@ -1666,7 +1666,7 @@
     (pin "1" (uuid 986e6c6a-fbd8-4b30-90f6-edb586dcae95))
     (pin "2" (uuid 8983c598-55e0-427b-98a6-00622efd7082))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K15") (unit 1)
         )
@@ -1691,7 +1691,7 @@
     )
     (pin "1" (uuid c515f840-a0d6-478a-ac1a-9d2c171334cd))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0107") (unit 1)
         )
@@ -1716,7 +1716,7 @@
     )
     (pin "1" (uuid 165313f7-cb4e-4ec7-82aa-60c7c1de753d))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0105") (unit 1)
         )
@@ -1742,7 +1742,7 @@
     (pin "1" (uuid 0745c979-0223-44f7-af2b-74ca0a47511a))
     (pin "2" (uuid f480866d-1d2f-4207-a1c3-17c371616296))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K03") (unit 1)
         )
@@ -1767,7 +1767,7 @@
     )
     (pin "1" (uuid 37078b67-382d-4ca0-858b-8b23274c489e))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0121") (unit 1)
         )
@@ -1793,7 +1793,7 @@
     (pin "1" (uuid 4a80c6a7-a2d8-4d58-bfd2-5a703d0fc2b8))
     (pin "2" (uuid 9a32fe83-5136-4d27-a94d-83e59cffd49d))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K02") (unit 1)
         )
@@ -1819,7 +1819,7 @@
     (pin "1" (uuid ffdc7346-1211-472b-a742-47bd1e5ba43e))
     (pin "2" (uuid 30ad4acc-ac53-4ed9-bd63-ea3791a79849))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K11") (unit 1)
         )
@@ -1845,7 +1845,7 @@
     (pin "1" (uuid 35fb0c1a-248b-4306-ad98-e8cd19a8a2bc))
     (pin "2" (uuid 3d9c79d9-3c9e-407f-8b13-8067d02057cd))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K22") (unit 1)
         )
@@ -1870,7 +1870,7 @@
     )
     (pin "1" (uuid 1d12fa93-0b82-44ef-bda0-e29d517e74c3))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0115") (unit 1)
         )
@@ -1895,7 +1895,7 @@
     )
     (pin "1" (uuid 0f83702b-b6f9-4681-bf37-8693bf67d930))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0118") (unit 1)
         )
@@ -1920,7 +1920,7 @@
     )
     (pin "1" (uuid ae4e2f99-6436-43bc-ac8d-5064e75d1e16))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0117") (unit 1)
         )
@@ -1984,7 +1984,7 @@
     (pin "8" (uuid 06ed1d28-809e-4957-9c7e-21e157337924))
     (pin "9" (uuid 66727efa-2690-4f7a-ae0c-c4a2ead26b57))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "U1") (unit 1)
         )
@@ -2009,7 +2009,7 @@
     )
     (pin "1" (uuid bcf211d2-587b-45c7-9381-4bb5286aef5e))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0119") (unit 1)
         )
@@ -2035,7 +2035,7 @@
     (pin "1" (uuid 563828e6-c5b1-4895-8834-6406c1cff3f2))
     (pin "2" (uuid f5592585-d40d-4b2f-8300-1bf808a72d92))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "LS1") (unit 1)
         )
@@ -2065,7 +2065,7 @@
     )
     (pin "1" (uuid 0e1fcb40-e125-4319-85e6-4679b567ca8d))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0101") (unit 1)
         )
@@ -2091,7 +2091,7 @@
     (pin "1" (uuid d6de6700-4582-4091-8041-cb9febfa457c))
     (pin "2" (uuid a5e8606b-742e-4945-8d8e-37b44beb83ed))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K04") (unit 1)
         )
@@ -2116,7 +2116,7 @@
     )
     (pin "1" (uuid cddae8d0-e9f9-4450-9ac6-d4cb93b7045b))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0120") (unit 1)
         )
@@ -2141,7 +2141,7 @@
     )
     (pin "1" (uuid 2415bb29-3360-48bd-9328-7f0fbbaff0b5))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0125") (unit 1)
         )
@@ -2167,7 +2167,7 @@
     (pin "1" (uuid ebba2bdf-77aa-4e52-84f2-1e6f349d48e7))
     (pin "2" (uuid bc35096a-041e-49de-8694-c87895d135f3))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K30") (unit 1)
         )
@@ -2192,7 +2192,7 @@
     )
     (pin "1" (uuid cd1e53d2-ed49-4013-beb0-f8ad46f8e23a))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0112") (unit 1)
         )
@@ -2220,7 +2220,7 @@
     (pin "3" (uuid e2267470-63bf-4e8d-a05a-4385a725ef77))
     (pin "4" (uuid 6c6fa429-75da-4b17-9214-86bc4ed5cb1d))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "J1") (unit 1)
         )
@@ -2246,7 +2246,7 @@
     (pin "1" (uuid 8327e349-c334-4d1d-bc34-e24cfbdd4f6f))
     (pin "2" (uuid 1fc053cc-fb87-4fed-a519-c04f02d8451e))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K20") (unit 1)
         )
@@ -2271,7 +2271,7 @@
     )
     (pin "1" (uuid 3301eca0-e7f2-4e00-b478-e7b21ddec9d8))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0116") (unit 1)
         )
@@ -2297,7 +2297,7 @@
     (pin "1" (uuid 91cafc07-d84d-47d9-b045-01c5c010ac5b))
     (pin "2" (uuid 5238753a-c570-4b7a-be69-434037dd78b0))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K23") (unit 1)
         )
@@ -2323,7 +2323,7 @@
     (pin "1" (uuid 144f1f39-05ca-446f-a561-46a1afee2b9d))
     (pin "2" (uuid 54bfbbfc-b93a-416c-841e-0ead93fc90cf))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K10") (unit 1)
         )
@@ -2349,7 +2349,7 @@
     (pin "1" (uuid 88cccd38-1fe4-4ef5-8790-1d76112e65d2))
     (pin "2" (uuid 891dfe66-7b56-432d-ba48-917a6fdeb871))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K01") (unit 1)
         )
@@ -2375,7 +2375,7 @@
     (pin "1" (uuid 781f8ced-0e62-4bc6-ad6c-218bd4b5f59f))
     (pin "2" (uuid a33d406e-ae27-434a-a60d-37d73a9c9127))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K25") (unit 1)
         )
@@ -2401,7 +2401,7 @@
     (pin "1" (uuid 0b4889d1-717d-463c-b0b1-1fa00a71e50a))
     (pin "2" (uuid dcd27b9c-47b3-4864-8a7b-3715ef4c60d0))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K31") (unit 1)
         )
@@ -2426,7 +2426,7 @@
     )
     (pin "1" (uuid c1acd14a-997e-40d1-932d-d613e359aff2))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0123") (unit 1)
         )
@@ -2452,7 +2452,7 @@
     (pin "1" (uuid 9cd93d2c-73c0-47a3-9f07-3c01f17d621b))
     (pin "2" (uuid 8e4c4c37-a077-43f8-90f9-b4520930682e))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K14") (unit 1)
         )
@@ -2477,7 +2477,7 @@
     )
     (pin "1" (uuid b9b39cc1-4792-4af5-ad6c-76001dfd95bd))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0127") (unit 1)
         )
@@ -2502,7 +2502,7 @@
     )
     (pin "1" (uuid 19402558-21ff-49b2-ae6d-4525c4d921d4))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0109") (unit 1)
         )
@@ -2527,7 +2527,7 @@
     )
     (pin "1" (uuid d2d58723-4887-43a5-8ef6-b20d61140122))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0124") (unit 1)
         )
@@ -2553,7 +2553,7 @@
     (pin "1" (uuid 3fc56c8a-d083-4465-b80f-af9250263421))
     (pin "2" (uuid d71ce0e7-af8c-4594-b8a3-408cc8bca08a))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K13") (unit 1)
         )
@@ -2578,7 +2578,7 @@
     )
     (pin "1" (uuid 399e3708-57ed-4188-86a5-69e100e60bc0))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0111") (unit 1)
         )
@@ -2603,7 +2603,7 @@
     )
     (pin "1" (uuid ffd0176b-1bea-4c0d-8332-6eddd6c150c2))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0103") (unit 1)
         )
@@ -2628,7 +2628,7 @@
     )
     (pin "1" (uuid a2f4bad2-155b-4c87-996c-10aca50c0c0c))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0122") (unit 1)
         )
@@ -2654,7 +2654,7 @@
     (pin "1" (uuid cc78ce05-8d00-4724-9342-46de376a79ff))
     (pin "2" (uuid 70216e86-b1c0-4e9b-ac0b-57b667a7491d))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K21") (unit 1)
         )
@@ -2680,7 +2680,7 @@
     (pin "1" (uuid 160f855b-9436-43cd-afc6-071905d32d1e))
     (pin "2" (uuid 77096ad6-ddf7-42ef-adf4-bb7f8f33739a))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K12") (unit 1)
         )
@@ -2705,7 +2705,7 @@
     )
     (pin "1" (uuid e534a659-b9d3-4998-9727-afea05eab57c))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0113") (unit 1)
         )
@@ -2730,7 +2730,7 @@
     )
     (pin "1" (uuid 2d0362b1-25cc-4c16-9319-9fd0b75c760b))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0106") (unit 1)
         )
@@ -2755,7 +2755,7 @@
     )
     (pin "1" (uuid 715e0727-83a5-4323-8941-c883fd99904f))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0102") (unit 1)
         )
@@ -2780,7 +2780,7 @@
     )
     (pin "1" (uuid 80f1dea7-42e9-44bd-b55e-b2812067b9cd))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0114") (unit 1)
         )
@@ -2805,7 +2805,7 @@
     )
     (pin "1" (uuid 70ca81c2-da20-4775-9b31-ec28bcbe5b5a))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0108") (unit 1)
         )
@@ -2830,7 +2830,7 @@
     )
     (pin "1" (uuid 282a11a2-cd0c-4542-b6bd-456d809fd805))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "#PWR0110") (unit 1)
         )
@@ -2856,7 +2856,7 @@
     (pin "1" (uuid dc36ca6c-1f97-4f32-af7c-7181c420500d))
     (pin "2" (uuid f71e3f26-861c-49dc-9990-3dc36634e6e7))
     (instances
-      (project "keyboard_pcb"
+      (project "cantor-master-key"
         (path "/9538e4ed-27e6-4c37-b989-9859dc0d49e8"
           (reference "K05") (unit 1)
         )
