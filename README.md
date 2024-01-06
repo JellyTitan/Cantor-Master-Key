@@ -1,5 +1,7 @@
 # Cantor Master Key (Formerly 'Cantor MX')
 This is a Cantor variant adjusted to support multiple switches, add hot swop kailh V1 & V2 sockets, and add a speaker.
+> [!ALERT]
+> ALL WORK HAS STOPPED ON THIS REPO. After multiple iterations, I concluded that this is a poor idea and abbandonded the project. The pins on the footprints are all just a little different, so it comes out looking like swiss cheese, and really not working well at all. Ultimately i found that  without three solid points of contact, the switches would be 'jiggly'. The jiggle would require keyplates, and the keyplates added cost & complexity. Reducing cost and complexity was driving this project. 
 
 Version 1.4 **(UNTESTED)** adds:
 * breakoff pinky clusters
